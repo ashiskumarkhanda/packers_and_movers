@@ -2,7 +2,7 @@
 
 A responsive website for a fictional moving company, built with modern HTML, CSS, and JavaScript. Features include a dynamic navigation menu, multiple pages, and a contact form connected to a Firebase backend.
 
-**View the Live Site:** https://kakarotgoku0382.github.io/packers-and-movers-website/
+**View the Live Site:** https://ashiskumarkhanda.github.io/packers_and_movers/
 
 ---
 ### Features
